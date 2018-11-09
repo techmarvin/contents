@@ -1,0 +1,6 @@
+```
+myList=[]
+for data in range(5):
+    myList.append(data)
+myList 
+```
